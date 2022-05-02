@@ -1,8 +1,8 @@
 # Weekly Mission 3
 
-Proyectos desarrollados en la semana 3:
+Projects developed in week 3:
 
-| Proyecto | Práctica | Link al repo |
+| Project | Exercise | Link to repo |
 | ------------- |:-------------:| -----:|
 |`my_launchx_app`|1|[Link al repo](https://github.com/enrique-mendoza/launchX-BackEnd-Mission-my_launchx_app)|
 |`spiderverse`|2|[Link al repo](https://github.com/enrique-mendoza/launchX-BackEnd-Mission-spiderverse)|
